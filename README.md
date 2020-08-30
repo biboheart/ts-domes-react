@@ -2,4 +2,4 @@
 
 #### 描述
 
-这是TypeScript官网示例项目
+这是TypeScript官网示例项目。
